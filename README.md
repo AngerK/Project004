@@ -5,7 +5,7 @@ The goal is to make heatmaps given a file of addresses.
 
 Put these four files in your current working directory:
 
-Project004_Geocode_v1.py 
+Project004_Geocode_v1.py  
 Project004_Geocode_v1-1_ReadSQL.py  
 Project004_Geocode_v1-2_Jupyter_gmaps.py  
 Project004_Geocode_Batch_NYSports.txt
