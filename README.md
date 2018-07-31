@@ -18,6 +18,7 @@ The logic from `Project004_Geocode_v1-2_Jupyter_gmaps.py` needs to be in a Jupyt
 
 When running in Jupyter Notebook you should see something like:
 
+![alt text](https://github.com/AngerK/Project004/blob/master/Project004_NYSports_Closeup.png)
 
 Tested with:  
 python 3.6.4  
