@@ -20,6 +20,11 @@ When running in Jupyter Notebook you should see something like:
 
 ![alt text](https://github.com/AngerK/Project004/blob/master/Project004_NYSports_Closeup.png)
 
+From there you have a fully interactive Google Map to play with.  For example, you can zoom out:
+
+![alt text](https://github.com/AngerK/Project004/blob/master/Project004_NYSports_ZoomOut.png)
+
 Tested with:  
 python 3.6.4  
 pandas 0.22.0  
+gmaps 0.8.0
